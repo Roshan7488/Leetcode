@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Roshan7488/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Roshan7488/Leetcode/tree/master/0066-plus-one) |
+| [0622-design-circular-queue](https://github.com/Roshan7488/Leetcode/tree/master/0622-design-circular-queue) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Roshan7488/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Roshan7488/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Roshan7488/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Roshan7488/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/Roshan7488/Leetcode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Roshan7488/Leetcode/tree/master/0707-design-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Roshan7488/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -75,9 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Roshan7488/Leetcode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Roshan7488/Leetcode/tree/master/0707-design-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Roshan7488/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Roshan7488/Leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
