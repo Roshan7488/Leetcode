@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Roshan7488/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Roshan7488/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Roshan7488/Leetcode/tree/master/0066-plus-one) |
+| [0224-basic-calculator](https://github.com/Roshan7488/Leetcode/tree/master/0224-basic-calculator) |
 ## Array
 |  |
 | ------- |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Roshan7488/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Roshan7488/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Roshan7488/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Roshan7488/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Roshan7488/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Roshan7488/Leetcode/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Roshan7488/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Roshan7488/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Roshan7488/Leetcode/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Roshan7488/Leetcode/tree/master/0224-basic-calculator) |
 | [0572-subtree-of-another-tree](https://github.com/Roshan7488/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
