@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Roshan7488/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Roshan7488/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Roshan7488/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0496-next-greater-element-i](https://github.com/Roshan7488/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Roshan7488/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Roshan7488/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan7488/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Roshan7488/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan7488/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Roshan7488/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Roshan7488/Leetcode/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/Roshan7488/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Roshan7488/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Roshan7488/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Roshan7488/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Hash Function
