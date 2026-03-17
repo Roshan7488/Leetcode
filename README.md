@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Roshan7488/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0622-design-circular-queue](https://github.com/Roshan7488/Leetcode/tree/master/0622-design-circular-queue) |
 | [0654-maximum-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/Roshan7488/Leetcode/tree/master/0739-daily-temperatures) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Roshan7488/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Roshan7488/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/Roshan7488/Leetcode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Roshan7488/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Roshan7488/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Roshan7488/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/Roshan7488/Leetcode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Roshan7488/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search Tree
 |  |
