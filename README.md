@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Roshan7488/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshan7488/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Roshan7488/Leetcode/tree/master/0200-number-of-islands) |
+| [0456-132-pattern](https://github.com/Roshan7488/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Roshan7488/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Roshan7488/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Roshan7488/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Roshan7488/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/Roshan7488/Leetcode/tree/master/0394-decode-string) |
+| [0456-132-pattern](https://github.com/Roshan7488/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Roshan7488/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Roshan7488/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Roshan7488/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Roshan7488/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Roshan7488/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Roshan7488/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Roshan7488/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan7488/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0456-132-pattern](https://github.com/Roshan7488/Leetcode/tree/master/0456-132-pattern) |
 ## Iterator
 |  |
 | ------- |
@@ -229,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Roshan7488/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Roshan7488/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
