@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan7488/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Roshan7488/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Roshan7488/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Roshan7488/Leetcode/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Roshan7488/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Roshan7488/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Roshan7488/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan7488/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Roshan7488/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Roshan7488/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan7488/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Roshan7488/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0456-132-pattern](https://github.com/Roshan7488/Leetcode/tree/master/0456-132-pattern) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshan7488/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Iterator
