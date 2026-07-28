@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshan7488/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Roshan7488/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Roshan7488/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshan7488/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Roshan7488/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Design
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Roshan7488/Leetcode/tree/master/0200-number-of-islands) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Roshan7488/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Sorting
 |  |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Roshan7488/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0456-132-pattern](https://github.com/Roshan7488/Leetcode/tree/master/0456-132-pattern) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshan7488/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Roshan7488/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Iterator
 |  |
 | ------- |
