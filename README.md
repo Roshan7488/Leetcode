@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Roshan7488/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Roshan7488/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Roshan7488/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Roshan7488/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Roshan7488/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Roshan7488/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Roshan7488/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/0654-maximum-binary-tree) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Roshan7488/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/Roshan7488/Leetcode/tree/master/0200-number-of-islands) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Roshan7488/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Roshan7488/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Sorting
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0456-132-pattern](https://github.com/Roshan7488/Leetcode/tree/master/0456-132-pattern) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Roshan7488/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshan7488/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Roshan7488/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
