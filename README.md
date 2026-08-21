@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshan7488/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Roshan7488/Leetcode/tree/master/0200-number-of-islands) |
+| [0287-find-the-duplicate-number](https://github.com/Roshan7488/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/Roshan7488/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Roshan7488/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Roshan7488/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/Roshan7488/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Roshan7488/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Roshan7488/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Roshan7488/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Roshan7488/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Roshan7488/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Recursion
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/Roshan7488/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Roshan7488/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/Roshan7488/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/Roshan7488/Leetcode/tree/master/0456-132-pattern) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Roshan7488/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -343,4 +346,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Roshan7488/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Roshan7488/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Roshan7488/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Roshan7488/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
