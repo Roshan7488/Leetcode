@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0897-increasing-order-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Roshan7488/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Roshan7488/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Roshan7488/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Roshan7488/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Roshan7488/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0897-increasing-order-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Roshan7488/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Roshan7488/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Design
 |  |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Roshan7488/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Roshan7488/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Roshan7488/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Roshan7488/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union Find
 |  |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0897-increasing-order-search-tree](https://github.com/Roshan7488/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Roshan7488/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Roshan7488/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Roshan7488/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Iterator
 |  |
 | ------- |
